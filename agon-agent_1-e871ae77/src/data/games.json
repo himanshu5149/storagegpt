@@ -1,0 +1,7 @@
+[
+  { "name": "Open-world adventure (example)", "size": 110 },
+  { "name": "Multiplayer shooter (example)", "size": 85 },
+  { "name": "Racing game (example)", "size": 65 },
+  { "name": "Sports game (example)", "size": 45 },
+  { "name": "Indie game (example)", "size": 12 }
+]
